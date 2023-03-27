@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1597944153 source:c:\users\dominika.desktop-epac6nf\desktop\implementation_of_linear_regression\main.cpp
+	<iostream>
+	<vector>
+	<numeric>
+	<cmath>
+	<limits>
+

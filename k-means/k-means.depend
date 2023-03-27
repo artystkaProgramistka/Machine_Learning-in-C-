@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1599942902 source:c:\users\dominika.desktop-epac6nf\desktop\k-means\main.cpp
+	<utility>
+	<cmath>
+	<iostream>
+	<valarray>
+	<vector>
+	<algorithm>
+
